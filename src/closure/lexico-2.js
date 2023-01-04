@@ -1,5 +1,8 @@
 /*
 AMBITO LEXICO
+la accesibilidad de las variables 
+esta determinada por la posicion de las misma
+dentro de los ambitos anidados
 
 
 */
