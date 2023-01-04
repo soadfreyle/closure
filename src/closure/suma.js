@@ -25,3 +25,5 @@ en como manejar ese tipo de casos.
   }
 console.log(sumWithClosure(2)(5));
 console.log(sumWithClosure(2)());
+
+
